@@ -30,7 +30,7 @@ Melhorar o layout com animações.
 Implementar a funcionalidade de salvar os pares gerados.
 
 Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Licença
 Este projeto é licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
