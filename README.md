@@ -13,23 +13,9 @@ CSS3: Para o estilo e layout.
 JavaScript: Para a lógica de interação e sorteio.
 Google Fonts: Para fontes personalizadas.
 
-Como Usar
-Clone o repositório:
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/amigo-secreto.git
-Navegue até o diretório do projeto:
-bash
-Copiar
-Editar
-cd amigo-secreto
-Abra o arquivo index.html no navegador para executar o projeto.
 
 Estrutura do Projeto
 bash
-Copiar
-Editar
 amigo-secreto/
  assets/
 amigo-secreto.png      # Imagem principal
